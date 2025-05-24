@@ -13,7 +13,7 @@ from constraints import (
 )
 
 parser = argparse.ArgumentParser(
-    prog="uv run chat.py",
+    prog="uv run cli.py",
     description=(
         "Chatbot for SQL generation and reasoning.\n"
         "This program uses a language model to generate SQL queries based on user prompts.\n"
